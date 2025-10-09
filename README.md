@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **Data Engineer & AI Systems Developer** specializing in production-ready enterprise solutions across multiple industries and Have extensive knowledge of backend development with .net and frontend development with react js. 
+I'm a **Data Engineer & AI Systems Developer** specializing in production-ready enterprise solutions across multiple industries and Have extensive knowledge of **Backend Development** with .net and **Frontend Development** with react js. 
 
 **🔭 Currently Working On:**
 - Enterprise AI/ML platforms with real-world business impact
